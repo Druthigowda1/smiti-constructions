@@ -71,7 +71,7 @@ export default function Antigravity({
         strings={["Complete Construction & Design Solutions"]}
         typeSpeed={60}
         backSpeed={50}
-        loop
+        loopfggh
         style={{ color: 'blue', fontWeight: 'bold', fontSize: '40px' }}
     />
 </Typography>
